@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Guadalupe Porra
 
-<!--
-**GuadalupePorra/GuadalupePorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | English Teacher | Lifelong Learner
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Recently graduated as Software Development Technician.
+
+🛠 Currently building apps for business management (gym, interdisciplinary centers, etc.).
+
+🔍 Interested in Fullstack Development, Data Engineering, and Automation.
+
+✨ Strong analytical skills, fast learner, and detail-oriented.
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks:**
+
+Python | Django | C# | .NET | JavaScript | React
+
+SQL | MySQL | SQLite
+
+**Tools & Others:**
+
+Git | GitHub | REST APIs | Bootstrap | TailwindCSS
+
+## 📂 Featured Projects
+* 🏋️ ZEUS Gym Management System
+
+Fullstack app built with Django REST Framework + MySQL + Bootstrap.
+
+= Includes modules for users, memberships, classes, and payments.
+
+* 🔗 Repository
+
+**🏥 Interdisciplinary Center Management (Desktop App)**
+
+Desktop application in C# + MySQL.
+
+Features: patient records, professionals, appointments, billing & daily agenda.
+
+Implements MVP pattern for maintainability.
+
+**🌍 English with Guada**
+
+Personal website offering online English lessons.
+
+## 📫 Connect with me
+
+💼 LinkedIn
+
+📧 Email: 
+
+🌍 Portfolio Website (coming soon...)
+
+✨ Always learning, always building.
+
+Built with HTML + CSS + JS, deployed with GitHub Pages.
