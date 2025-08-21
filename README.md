@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guadalupe Porra
 
-💻 Software Developer | English Teacher | Lifelong Learner
+💻 Junior Fullstack Developer | Frontend-Oriented| Lifelong Learner
 
 ## 🚀 About me
 
@@ -8,7 +8,7 @@
 
 🛠 Currently building apps for business management (gym, interdisciplinary centers, etc.).
 
-🔍 Interested in Fullstack Development, Data Engineering, and Automation.
+🔍 Interested in Fullstack Development, Frontend Development, and Automation.
 
 ✨ Strong analytical skills, fast learner, and detail-oriented.
 
@@ -16,43 +16,46 @@
 
 **Languages & Frameworks:**
 
-Python | Django | C# | .NET | JavaScript | React
+Python | Django | C# | .NET | java | JavaScript | React 
 
-SQL | MySQL | SQLite
+SQL | MySQL | PostgreSQL
 
 **Tools & Others:**
 
 Git | GitHub | REST APIs | Bootstrap | TailwindCSS
 
 ## 📂 Featured Projects
-* 🏋️ ZEUS Gym Management System
+* 🏋️ Gym Management System
 
-Fullstack app built with Django REST Framework + MySQL + Bootstrap.
+Fullstack app built with Django REST Framework + PostgreSQL + React.
 
-= Includes modules for users, memberships, classes, and payments.
+Includes modules for users, memberships, classes, and payments.
 
-* 🔗 Repository
+* 🔗 [Repository](https://github.com/GuadalupePorra/Gym-Management-System)
+* 🚀[Live demo](https://zeus-gym.railway.app)
 
 **🏥 Interdisciplinary Center Management (Desktop App)**
 
-Desktop application in C# + MySQL.
+- Desktop application in C# + MySQL.
+- Features: patient records, professionals, appointments, billing & daily agenda.
+- Implements MVP pattern for maintainability.
 
-Features: patient records, professionals, appointments, billing & daily agenda.
-
-Implements MVP pattern for maintainability.
+🔗 [Repository](https://github.com/GuadalupePorra/Sistema-Centro-Interdisciplinario)
 
 **🌍 English with Guada**
 
 Personal website offering online English lessons.
 
+- Built with HTML + CSS + JS, deployed with GitHub Pages.
+
+🔗[Website](https://guadalupeporra.github.io/English-with-Guada/)
+
 ## 📫 Connect with me
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/guadalupeporra)
 
-📧 Email: 
+📧 Email: Guadalupe.porra1@gmail.com
 
 🌍 Portfolio Website (coming soon...)
 
-✨ Always learning, always building.
-
-Built with HTML + CSS + JS, deployed with GitHub Pages.
+### ✨ Always learning, always building.
